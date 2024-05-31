@@ -75,4 +75,4 @@ To tackle this multiclass classification problem, I developed four different mod
 
 ## Contact
 
-For any questions or inquiries, feel free to contact me at jleonhar@mail.yu.edu
+For any questions or inquiries, feel free to contact me at juanfraleonhardt@gmail.com
